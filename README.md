@@ -10,7 +10,7 @@ This is work is on Five Fold Cross Validation of CNN Model using Image Sentiment
 Package Version\
 python 3.6.8\
 numpy  1.16.1\  
-skimage 0.16.2\
+skimage 0.16.2
 pandas 0.24.1\
 keras 2.2.4               
 
