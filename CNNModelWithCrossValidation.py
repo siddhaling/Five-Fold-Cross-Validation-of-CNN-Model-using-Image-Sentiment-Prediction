@@ -181,4 +181,4 @@ for trainIndx, testIndx in statifiedFolds.split(allImsPaths, labels):
     Total_score+=score
     foldi=foldi+1
     
-print("Cross validation Accuracy=",Total_score)
+print("Cross validation Accuracy=",Total_score/foldi)
